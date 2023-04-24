@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">WZ2Assist</string>
+
+    <string-array name="classWeapons">
+        <item>Assault rifles</item>
+        <item>Combat rifles</item>
+        <item>SMG</item>
+        <item>LMG</item>
+        <item>Shotguns</item>
+        <item>Sniper rifles</item>
+        <item>Marksman rifles</item>
+        <item>Melees</item>
+        <item>Pistols</item>
+        <item>Launchers</item>
+    </string-array>
+
+    <string-array name="assaultRifles">
+        <item>M4</item>
+        <item>M16</item>
+        <item>M13B</item>
+        <item>Kastov-545</item>
+        <item>Kastov-762</item>
+        <item>Kastov-74U</item>
+        <item>Lachmann-556</item>
+        <item>STB 556</item>
+        <item>TAQ-56</item>
+        <item>Chimera</item>
+        <item>ISO Hemlock</item>
+    </string-array>
+
+    <string-array name="combatRifles">
+        <item>SO-14</item>
+        <item>Lachmann-762</item>
+        <item>TAQ-V</item>
+        <item>FTAC Recon</item>
+    </string-array>
+
+    <string-array name="smg">
+        <item>VEL 46</item>
+        <item>MX9</item>
+        <item>Lachmann SUB</item>
+        <item>Vaznev-9K</item>
+        <item>FSS Hurricane</item>
+        <item>Minibak</item>
+        <item>PDSW 528</item>
+        <item>BAS-P</item>
+        <item>Fennec 45</item>
+    </string-array>
+
+    <string-array name="lmg">
+        <item>MG-38 Sakin</item>
+        <item>556 "Icarus"</item>
+        <item>HCR 56</item>
+        <item>RAAL MG</item>
+        <item>Rapp H</item>
+        <item>RPK</item>
+    </string-array>
+
+    <string-array name="shotguns">
+        <item>Lockwood 300</item>
+        <item>Bryson 800</item>
+        <item>Bryson 890</item>
+        <item>Expedite 12</item>
+        <item>KV Broadside</item>
+    </string-array>
+
+    <string-array name="sniperRifles">
+        <item>LA-B 330</item>
+        <item>MCPR-300</item>
+        <item>Signal 50</item>
+        <item>SP-X 80</item>
+        <item>Victus XMR</item>
+    </string-array>
+
+    <string-array name="marksmanRifles">
+        <item>EBR-14</item>
+        <item>LM-S</item>
+        <item>Lockwood MK2</item>
+        <item>SP-R 208</item>
+        <item>SA-B 50</item>
+        <item>TAQ-M</item>
+    </string-array>
+
+    <string-array name="melees">
+        <item>Combat knife</item>
+        <item>Riot Shield</item>
+    </string-array>
+
+    <string-array name="pistols">
+        <item>.50 GS</item>
+        <item>Basilisk</item>
+        <item>P890</item>
+        <item>X12</item>
+        <item>X13 Auto</item>
+    </string-array>
+
+    <string-array name="launchers">
+        <item>Jokr</item>
+        <item>Pila</item>
+        <item>RPG-7</item>
+        <item>Strela-P</item>
+    </string-array>
+</resources>
